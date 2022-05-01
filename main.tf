@@ -9,5 +9,4 @@ resource "aws_instance" "first-tf-instance" {
   tags = {
     Name = "TFInst"
   }
-
 }
